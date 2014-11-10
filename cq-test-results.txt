@@ -1,0 +1,2116 @@
+Buffer1 queue size is 255, initialization Succeeded
+Buffer2 queue size is 255, initialization Succeeded
+Attempting to add member 1 to buffer 1...
+	...Success!
+Attempting to add member 1 to buffer 2...
+	...Success!
+Attempting to add member 2 to buffer 1...
+	...Success!
+Attempting to add member 2 to buffer 2...
+	...Success!
+Attempting to add member 3 to buffer 1...
+	...Success!
+Attempting to add member 4 to buffer 1...
+	...Success!
+Attempting to add member 5 to buffer 1...
+	...Success!
+Attempting to add member 6 to buffer 1...
+	...Success!
+Attempting to add member 7 to buffer 1...
+	...Success!
+Attempting to add member 8 to buffer 1...
+	...Success!
+Attempting to add member 9 to buffer 1...
+	...Success!
+Attempting to add member 10 to buffer 1...
+	...Success!
+Attempting to add member 11 to buffer 1...
+	...Success!
+Attempting to add member 12 to buffer 1...
+	...Success!
+Attempting to add member 13 to buffer 1...
+	...Success!
+Attempting to add member 14 to buffer 1...
+	...Success!
+Attempting to add member 15 to buffer 1...
+	...Success!
+Attempting to add member 16 to buffer 1...
+	...Success!
+Attempting to add member 17 to buffer 1...
+	...Success!
+Attempting to add member 18 to buffer 1...
+	...Success!
+Attempting to add member 19 to buffer 1...
+	...Success!
+Attempting to add member 20 to buffer 1...
+	...Success!
+Attempting to add member 21 to buffer 1...
+	...Success!
+Attempting to add member 22 to buffer 1...
+	...Success!
+Attempting to add member 23 to buffer 1...
+	...Success!
+Attempting to add member 24 to buffer 1...
+	...Success!
+Attempting to add member 25 to buffer 1...
+	...Success!
+Attempting to add member 26 to buffer 1...
+	...Success!
+Attempting to add member 27 to buffer 1...
+	...Success!
+Attempting to add member 28 to buffer 1...
+	...Success!
+Attempting to add member 29 to buffer 1...
+	...Success!
+Attempting to add member 30 to buffer 1...
+	...Success!
+Attempting to add member 31 to buffer 1...
+	...Success!
+Attempting to add member 32 to buffer 1...
+	...Success!
+Attempting to add member 33 to buffer 1...
+	...Success!
+Attempting to add member 34 to buffer 1...
+	...Success!
+Attempting to add member 35 to buffer 1...
+	...Success!
+Attempting to add member 36 to buffer 1...
+	...Success!
+Attempting to add member 37 to buffer 1...
+	...Success!
+Attempting to add member 38 to buffer 1...
+	...Success!
+Attempting to add member 39 to buffer 1...
+	...Success!
+Attempting to add member 40 to buffer 1...
+	...Success!
+Attempting to add member 41 to buffer 1...
+	...Success!
+Attempting to add member 42 to buffer 1...
+	...Success!
+Attempting to add member 43 to buffer 1...
+	...Success!
+Attempting to add member 44 to buffer 1...
+	...Success!
+Attempting to add member 45 to buffer 1...
+	...Success!
+Attempting to add member 46 to buffer 1...
+	...Success!
+Attempting to add member 47 to buffer 1...
+	...Success!
+Attempting to add member 48 to buffer 1...
+	...Success!
+Attempting to add member 49 to buffer 1...
+	...Success!
+Attempting to add member 50 to buffer 1...
+	...Success!
+Attempting to add member 51 to buffer 1...
+	...Success!
+Attempting to add member 52 to buffer 1...
+	...Success!
+Attempting to add member 53 to buffer 1...
+	...Success!
+Attempting to add member 54 to buffer 1...
+	...Success!
+Attempting to add member 55 to buffer 1...
+	...Success!
+Attempting to add member 56 to buffer 1...
+	...Success!
+Attempting to add member 57 to buffer 1...
+	...Success!
+Attempting to add member 58 to buffer 1...
+	...Success!
+Attempting to add member 59 to buffer 1...
+	...Success!
+Attempting to add member 60 to buffer 1...
+	...Success!
+Attempting to add member 61 to buffer 1...
+	...Success!
+Attempting to add member 62 to buffer 1...
+	...Success!
+Attempting to add member 63 to buffer 1...
+	...Success!
+Attempting to add member 64 to buffer 1...
+	...Success!
+Attempting to add member 65 to buffer 1...
+	...Success!
+Attempting to add member 66 to buffer 1...
+	...Success!
+Attempting to add member 67 to buffer 1...
+	...Success!
+Attempting to add member 68 to buffer 1...
+	...Success!
+Attempting to add member 69 to buffer 1...
+	...Success!
+Attempting to add member 70 to buffer 1...
+	...Success!
+Attempting to add member 71 to buffer 1...
+	...Success!
+Attempting to add member 72 to buffer 1...
+	...Success!
+Attempting to add member 73 to buffer 1...
+	...Success!
+Attempting to add member 74 to buffer 1...
+	...Success!
+Attempting to add member 75 to buffer 1...
+	...Success!
+Attempting to add member 76 to buffer 1...
+	...Success!
+Attempting to add member 77 to buffer 1...
+	...Success!
+Attempting to add member 78 to buffer 1...
+	...Success!
+Attempting to add member 79 to buffer 1...
+	...Success!
+Attempting to add member 80 to buffer 1...
+	...Success!
+Attempting to add member 81 to buffer 1...
+	...Success!
+Attempting to add member 82 to buffer 1...
+	...Success!
+Attempting to add member 83 to buffer 1...
+	...Success!
+Attempting to add member 84 to buffer 1...
+	...Success!
+Attempting to add member 85 to buffer 1...
+	...Success!
+Attempting to add member 86 to buffer 1...
+	...Success!
+Attempting to add member 87 to buffer 1...
+	...Success!
+Attempting to add member 88 to buffer 1...
+	...Success!
+Attempting to add member 89 to buffer 1...
+	...Success!
+Attempting to add member 90 to buffer 1...
+	...Success!
+Attempting to add member 91 to buffer 1...
+	...Success!
+Attempting to add member 92 to buffer 1...
+	...Success!
+Attempting to add member 93 to buffer 1...
+	...Success!
+Attempting to add member 94 to buffer 1...
+	...Success!
+Attempting to add member 95 to buffer 1...
+	...Success!
+Attempting to add member 96 to buffer 1...
+	...Success!
+Attempting to add member 97 to buffer 1...
+	...Success!
+Attempting to add member 98 to buffer 1...
+	...Success!
+Attempting to add member 99 to buffer 1...
+	...Success!
+Attempting to add member 100 to buffer 1...
+	...Success!
+Attempting to add member 101 to buffer 1...
+	...Success!
+Attempting to add member 102 to buffer 1...
+	...Success!
+Attempting to add member 103 to buffer 1...
+	...Success!
+Attempting to add member 104 to buffer 1...
+	...Success!
+Attempting to add member 105 to buffer 1...
+	...Success!
+Attempting to add member 106 to buffer 1...
+	...Success!
+Attempting to add member 107 to buffer 1...
+	...Success!
+Attempting to add member 108 to buffer 1...
+	...Success!
+Attempting to add member 109 to buffer 1...
+	...Success!
+Attempting to add member 110 to buffer 1...
+	...Success!
+Attempting to add member 111 to buffer 1...
+	...Success!
+Attempting to add member 112 to buffer 1...
+	...Success!
+Attempting to add member 113 to buffer 1...
+	...Success!
+Attempting to add member 114 to buffer 1...
+	...Success!
+Attempting to add member 115 to buffer 1...
+	...Success!
+Attempting to add member 116 to buffer 1...
+	...Success!
+Attempting to add member 117 to buffer 1...
+	...Success!
+Attempting to add member 118 to buffer 1...
+	...Success!
+Attempting to add member 119 to buffer 1...
+	...Success!
+Attempting to add member 120 to buffer 1...
+	...Success!
+Attempting to add member 121 to buffer 1...
+	...Success!
+Attempting to add member 122 to buffer 1...
+	...Success!
+Attempting to add member 123 to buffer 1...
+	...Success!
+Attempting to add member 124 to buffer 1...
+	...Success!
+Attempting to add member 125 to buffer 1...
+	...Success!
+Attempting to add member 126 to buffer 1...
+	...Success!
+Attempting to add member 127 to buffer 1...
+	...Success!
+Attempting to add member 128 to buffer 1...
+	...Success!
+Attempting to add member 129 to buffer 1...
+	...Success!
+Attempting to add member 130 to buffer 1...
+	...Success!
+Attempting to add member 131 to buffer 1...
+	...Success!
+Attempting to add member 132 to buffer 1...
+	...Success!
+Attempting to add member 133 to buffer 1...
+	...Success!
+Attempting to add member 134 to buffer 1...
+	...Success!
+Attempting to add member 135 to buffer 1...
+	...Success!
+Attempting to add member 136 to buffer 1...
+	...Success!
+Attempting to add member 137 to buffer 1...
+	...Success!
+Attempting to add member 138 to buffer 1...
+	...Success!
+Attempting to add member 139 to buffer 1...
+	...Success!
+Attempting to add member 140 to buffer 1...
+	...Success!
+Attempting to add member 141 to buffer 1...
+	...Success!
+Attempting to add member 142 to buffer 1...
+	...Success!
+Attempting to add member 143 to buffer 1...
+	...Success!
+Attempting to add member 144 to buffer 1...
+	...Success!
+Attempting to add member 145 to buffer 1...
+	...Success!
+Attempting to add member 146 to buffer 1...
+	...Success!
+Attempting to add member 147 to buffer 1...
+	...Success!
+Attempting to add member 148 to buffer 1...
+	...Success!
+Attempting to add member 149 to buffer 1...
+	...Success!
+Attempting to add member 150 to buffer 1...
+	...Success!
+Attempting to add member 151 to buffer 1...
+	...Success!
+Attempting to add member 152 to buffer 1...
+	...Success!
+Attempting to add member 153 to buffer 1...
+	...Success!
+Attempting to add member 154 to buffer 1...
+	...Success!
+Attempting to add member 155 to buffer 1...
+	...Success!
+Attempting to add member 156 to buffer 1...
+	...Success!
+Attempting to add member 157 to buffer 1...
+	...Success!
+Attempting to add member 158 to buffer 1...
+	...Success!
+Attempting to add member 159 to buffer 1...
+	...Success!
+Attempting to add member 160 to buffer 1...
+	...Success!
+Attempting to add member 161 to buffer 1...
+	...Success!
+Attempting to add member 162 to buffer 1...
+	...Success!
+Attempting to add member 163 to buffer 1...
+	...Success!
+Attempting to add member 164 to buffer 1...
+	...Success!
+Attempting to add member 165 to buffer 1...
+	...Success!
+Attempting to add member 166 to buffer 1...
+	...Success!
+Attempting to add member 167 to buffer 1...
+	...Success!
+Attempting to add member 168 to buffer 1...
+	...Success!
+Attempting to add member 169 to buffer 1...
+	...Success!
+Attempting to add member 170 to buffer 1...
+	...Success!
+Attempting to add member 171 to buffer 1...
+	...Success!
+Attempting to add member 172 to buffer 1...
+	...Success!
+Attempting to add member 173 to buffer 1...
+	...Success!
+Attempting to add member 174 to buffer 1...
+	...Success!
+Attempting to add member 175 to buffer 1...
+	...Success!
+Attempting to add member 176 to buffer 1...
+	...Success!
+Attempting to add member 177 to buffer 1...
+	...Success!
+Attempting to add member 178 to buffer 1...
+	...Success!
+Attempting to add member 179 to buffer 1...
+	...Success!
+Attempting to add member 180 to buffer 1...
+	...Success!
+Attempting to add member 181 to buffer 1...
+	...Success!
+Attempting to add member 182 to buffer 1...
+	...Success!
+Attempting to add member 183 to buffer 1...
+	...Success!
+Attempting to add member 184 to buffer 1...
+	...Success!
+Attempting to add member 185 to buffer 1...
+	...Success!
+Attempting to add member 186 to buffer 1...
+	...Success!
+Attempting to add member 187 to buffer 1...
+	...Success!
+Attempting to add member 188 to buffer 1...
+	...Success!
+Attempting to add member 189 to buffer 1...
+	...Success!
+Attempting to add member 190 to buffer 1...
+	...Success!
+Attempting to add member 191 to buffer 1...
+	...Success!
+Attempting to add member 192 to buffer 1...
+	...Success!
+Attempting to add member 193 to buffer 1...
+	...Success!
+Attempting to add member 194 to buffer 1...
+	...Success!
+Attempting to add member 195 to buffer 1...
+	...Success!
+Attempting to add member 196 to buffer 1...
+	...Success!
+Attempting to add member 197 to buffer 1...
+	...Success!
+Attempting to add member 198 to buffer 1...
+	...Success!
+Attempting to add member 199 to buffer 1...
+	...Success!
+Attempting to add member 200 to buffer 1...
+	...Success!
+Attempting to add member 201 to buffer 1...
+	...Success!
+Attempting to add member 202 to buffer 1...
+	...Success!
+Attempting to add member 203 to buffer 1...
+	...Success!
+Attempting to add member 204 to buffer 1...
+	...Success!
+Attempting to add member 205 to buffer 1...
+	...Success!
+Attempting to add member 206 to buffer 1...
+	...Success!
+Attempting to add member 207 to buffer 1...
+	...Success!
+Attempting to add member 208 to buffer 1...
+	...Success!
+Attempting to add member 209 to buffer 1...
+	...Success!
+Attempting to add member 210 to buffer 1...
+	...Success!
+Attempting to add member 211 to buffer 1...
+	...Success!
+Attempting to add member 212 to buffer 1...
+	...Success!
+Attempting to add member 213 to buffer 1...
+	...Success!
+Attempting to add member 214 to buffer 1...
+	...Success!
+Attempting to add member 215 to buffer 1...
+	...Success!
+Attempting to add member 216 to buffer 1...
+	...Success!
+Attempting to add member 217 to buffer 1...
+	...Success!
+Attempting to add member 218 to buffer 1...
+	...Success!
+Attempting to add member 219 to buffer 1...
+	...Success!
+Attempting to add member 220 to buffer 1...
+	...Success!
+Attempting to add member 221 to buffer 1...
+	...Success!
+Attempting to add member 222 to buffer 1...
+	...Success!
+Attempting to add member 223 to buffer 1...
+	...Success!
+Attempting to add member 224 to buffer 1...
+	...Success!
+Attempting to add member 225 to buffer 1...
+	...Success!
+Attempting to add member 226 to buffer 1...
+	...Success!
+Attempting to add member 227 to buffer 1...
+	...Success!
+Attempting to add member 228 to buffer 1...
+	...Success!
+Attempting to add member 229 to buffer 1...
+	...Success!
+Attempting to add member 230 to buffer 1...
+	...Success!
+Attempting to add member 231 to buffer 1...
+	...Success!
+Attempting to add member 232 to buffer 1...
+	...Success!
+Attempting to add member 233 to buffer 1...
+	...Success!
+Attempting to add member 234 to buffer 1...
+	...Success!
+Attempting to add member 235 to buffer 1...
+	...Success!
+Attempting to add member 236 to buffer 1...
+	...Success!
+Attempting to add member 237 to buffer 1...
+	...Success!
+Attempting to add member 238 to buffer 1...
+	...Success!
+Attempting to add member 239 to buffer 1...
+	...Success!
+Attempting to add member 240 to buffer 1...
+	...Success!
+Attempting to add member 241 to buffer 1...
+	...Success!
+Attempting to add member 242 to buffer 1...
+	...Success!
+Attempting to add member 243 to buffer 1...
+	...Success!
+Attempting to add member 244 to buffer 1...
+	...Success!
+Attempting to add member 245 to buffer 1...
+	...Success!
+Attempting to add member 246 to buffer 1...
+	...Success!
+Attempting to add member 247 to buffer 1...
+	...Success!
+Attempting to add member 248 to buffer 1...
+	...Success!
+Attempting to add member 249 to buffer 1...
+	...Success!
+Attempting to add member 250 to buffer 1...
+	...Success!
+Attempting to add member 251 to buffer 1...
+	...Success!
+Attempting to add member 252 to buffer 1...
+	...Success!
+Attempting to add member 253 to buffer 1...
+	...Success!
+Attempting to add member 254 to buffer 1...
+	...Success!
+Attempting to add member 255 to buffer 1...
+	...Success!
+Buffer Now Full
+Attempting to add member 256 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 257 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 258 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 259 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 260 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 261 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 262 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 263 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 264 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 265 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 266 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 267 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 268 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 269 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 270 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 271 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 272 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 273 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to add member 274 to buffer 1...
+	...FAILED
+Buffer Now Full
+Attempting to remove member 1 from buffer 1...
+	...Success!
+	int: 100
+	float: 1.550000
+	float: 77
+Attempting to remove member 2 from buffer 1...
+	...Success!
+	int: 101
+	float: 2.550000
+	float: 77
+Attempting to remove member 3 from buffer 1...
+	...Success!
+	int: 10
+	float: 1.001000
+	float: 1
+Attempting to remove member 4 from buffer 1...
+	...Success!
+	int: 20
+	float: 2.002000
+	float: 2
+Attempting to remove member 5 from buffer 1...
+	...Success!
+	int: 30
+	float: 3.003000
+	float: 3
+Attempting to remove member 6 from buffer 1...
+	...Success!
+	int: 40
+	float: 4.004000
+	float: 4
+Attempting to remove member 7 from buffer 1...
+	...Success!
+	int: 50
+	float: 5.005000
+	float: 5
+Attempting to remove member 8 from buffer 1...
+	...Success!
+	int: 60
+	float: 6.006000
+	float: 6
+Attempting to remove member 9 from buffer 1...
+	...Success!
+	int: 70
+	float: 7.007000
+	float: 7
+Attempting to remove member 10 from buffer 1...
+	...Success!
+	int: 80
+	float: 8.008000
+	float: 8
+Attempting to remove member 11 from buffer 1...
+	...Success!
+	int: 90
+	float: 9.009001
+	float: 9
+Attempting to remove member 12 from buffer 1...
+	...Success!
+	int: 100
+	float: 10.010001
+	float: 10
+Attempting to remove member 13 from buffer 1...
+	...Success!
+	int: 110
+	float: 11.011002
+	float: 11
+Attempting to remove member 14 from buffer 1...
+	...Success!
+	int: 120
+	float: 12.012002
+	float: 12
+Attempting to remove member 15 from buffer 1...
+	...Success!
+	int: 130
+	float: 13.013002
+	float: 13
+Attempting to remove member 16 from buffer 1...
+	...Success!
+	int: 140
+	float: 14.014003
+	float: 14
+Attempting to remove member 17 from buffer 1...
+	...Success!
+	int: 150
+	float: 15.015003
+	float: 15
+Attempting to remove member 18 from buffer 1...
+	...Success!
+	int: 160
+	float: 16.016003
+	float: 16
+Attempting to remove member 19 from buffer 1...
+	...Success!
+	int: 170
+	float: 17.017002
+	float: 17
+Attempting to remove member 20 from buffer 1...
+	...Success!
+	int: 180
+	float: 18.018002
+	float: 18
+Attempting to remove member 21 from buffer 1...
+	...Success!
+	int: 190
+	float: 19.019001
+	float: 19
+Attempting to remove member 22 from buffer 1...
+	...Success!
+	int: 200
+	float: 20.020000
+	float: 20
+Attempting to remove member 23 from buffer 1...
+	...Success!
+	int: 210
+	float: 21.021000
+	float: 21
+Attempting to remove member 24 from buffer 1...
+	...Success!
+	int: 220
+	float: 22.021999
+	float: 22
+Attempting to remove member 25 from buffer 1...
+	...Success!
+	int: 230
+	float: 23.022999
+	float: 23
+Attempting to remove member 26 from buffer 1...
+	...Success!
+	int: 240
+	float: 24.023998
+	float: 24
+Attempting to remove member 27 from buffer 1...
+	...Success!
+	int: 250
+	float: 25.024998
+	float: 25
+Attempting to remove member 28 from buffer 1...
+	...Success!
+	int: 260
+	float: 26.025997
+	float: 26
+Attempting to remove member 29 from buffer 1...
+	...Success!
+	int: 270
+	float: 27.026997
+	float: 27
+Attempting to remove member 30 from buffer 1...
+	...Success!
+	int: 280
+	float: 28.027996
+	float: 28
+Attempting to remove member 31 from buffer 1...
+	...Success!
+	int: 290
+	float: 29.028996
+	float: 29
+Attempting to remove member 32 from buffer 1...
+	...Success!
+	int: 300
+	float: 30.029995
+	float: 30
+Attempting to remove member 33 from buffer 1...
+	...Success!
+	int: 310
+	float: 31.030994
+	float: 31
+Attempting to remove member 34 from buffer 1...
+	...Success!
+	int: 320
+	float: 32.031994
+	float: 32
+Attempting to remove member 35 from buffer 1...
+	...Success!
+	int: 330
+	float: 33.032993
+	float: 33
+Attempting to remove member 36 from buffer 1...
+	...Success!
+	int: 340
+	float: 34.033993
+	float: 34
+Attempting to remove member 37 from buffer 1...
+	...Success!
+	int: 350
+	float: 35.034992
+	float: 35
+Attempting to remove member 38 from buffer 1...
+	...Success!
+	int: 360
+	float: 36.035992
+	float: 36
+Attempting to remove member 39 from buffer 1...
+	...Success!
+	int: 370
+	float: 37.036991
+	float: 37
+Attempting to remove member 40 from buffer 1...
+	...Success!
+	int: 380
+	float: 38.037991
+	float: 38
+Attempting to remove member 41 from buffer 1...
+	...Success!
+	int: 390
+	float: 39.038990
+	float: 39
+Attempting to remove member 42 from buffer 1...
+	...Success!
+	int: 400
+	float: 40.039989
+	float: 40
+Attempting to remove member 43 from buffer 1...
+	...Success!
+	int: 410
+	float: 41.040989
+	float: 41
+Attempting to remove member 44 from buffer 1...
+	...Success!
+	int: 420
+	float: 42.041988
+	float: 42
+Attempting to remove member 45 from buffer 1...
+	...Success!
+	int: 430
+	float: 43.042988
+	float: 43
+Attempting to remove member 46 from buffer 1...
+	...Success!
+	int: 440
+	float: 44.043987
+	float: 44
+Attempting to remove member 47 from buffer 1...
+	...Success!
+	int: 450
+	float: 45.044987
+	float: 45
+Attempting to remove member 48 from buffer 1...
+	...Success!
+	int: 460
+	float: 46.045986
+	float: 46
+Attempting to remove member 49 from buffer 1...
+	...Success!
+	int: 470
+	float: 47.046986
+	float: 47
+Attempting to remove member 50 from buffer 1...
+	...Success!
+	int: 480
+	float: 48.047985
+	float: 48
+Attempting to remove member 51 from buffer 1...
+	...Success!
+	int: 490
+	float: 49.048985
+	float: 49
+Attempting to remove member 52 from buffer 1...
+	...Success!
+	int: 500
+	float: 50.049984
+	float: 50
+Attempting to remove member 53 from buffer 1...
+	...Success!
+	int: 510
+	float: 51.050983
+	float: 51
+Attempting to remove member 54 from buffer 1...
+	...Success!
+	int: 520
+	float: 52.051983
+	float: 52
+Attempting to remove member 55 from buffer 1...
+	...Success!
+	int: 530
+	float: 53.052982
+	float: 53
+Attempting to remove member 56 from buffer 1...
+	...Success!
+	int: 540
+	float: 54.053982
+	float: 54
+Attempting to remove member 57 from buffer 1...
+	...Success!
+	int: 550
+	float: 55.054981
+	float: 55
+Attempting to remove member 58 from buffer 1...
+	...Success!
+	int: 560
+	float: 56.055981
+	float: 56
+Attempting to remove member 59 from buffer 1...
+	...Success!
+	int: 570
+	float: 57.056980
+	float: 57
+Attempting to remove member 60 from buffer 1...
+	...Success!
+	int: 580
+	float: 58.057980
+	float: 58
+Attempting to remove member 61 from buffer 1...
+	...Success!
+	int: 590
+	float: 59.058979
+	float: 59
+Attempting to remove member 62 from buffer 1...
+	...Success!
+	int: 600
+	float: 60.059978
+	float: 60
+Attempting to remove member 63 from buffer 1...
+	...Success!
+	int: 610
+	float: 61.060978
+	float: 61
+Attempting to remove member 64 from buffer 1...
+	...Success!
+	int: 620
+	float: 62.061977
+	float: 62
+Attempting to remove member 65 from buffer 1...
+	...Success!
+	int: 630
+	float: 63.062977
+	float: 63
+Attempting to remove member 66 from buffer 1...
+	...Success!
+	int: 640
+	float: 64.063980
+	float: 64
+Attempting to remove member 67 from buffer 1...
+	...Success!
+	int: 650
+	float: 65.064980
+	float: 65
+Attempting to remove member 68 from buffer 1...
+	...Success!
+	int: 660
+	float: 66.065979
+	float: 66
+Attempting to remove member 69 from buffer 1...
+	...Success!
+	int: 670
+	float: 67.066978
+	float: 67
+Attempting to remove member 70 from buffer 1...
+	...Success!
+	int: 680
+	float: 68.067978
+	float: 68
+Attempting to remove member 71 from buffer 1...
+	...Success!
+	int: 690
+	float: 69.068977
+	float: 69
+Attempting to remove member 72 from buffer 1...
+	...Success!
+	int: 700
+	float: 70.069977
+	float: 70
+Attempting to remove member 73 from buffer 1...
+	...Success!
+	int: 710
+	float: 71.070976
+	float: 71
+Attempting to remove member 74 from buffer 1...
+	...Success!
+	int: 720
+	float: 72.071976
+	float: 72
+Attempting to remove member 75 from buffer 1...
+	...Success!
+	int: 730
+	float: 73.072975
+	float: 73
+Attempting to remove member 76 from buffer 1...
+	...Success!
+	int: 740
+	float: 74.073975
+	float: 74
+Attempting to remove member 77 from buffer 1...
+	...Success!
+	int: 750
+	float: 75.074974
+	float: 75
+Attempting to remove member 78 from buffer 1...
+	...Success!
+	int: 760
+	float: 76.075974
+	float: 76
+Attempting to remove member 79 from buffer 1...
+	...Success!
+	int: 770
+	float: 77.076973
+	float: 77
+Attempting to remove member 80 from buffer 1...
+	...Success!
+	int: 780
+	float: 78.077972
+	float: 78
+Attempting to remove member 81 from buffer 1...
+	...Success!
+	int: 790
+	float: 79.078972
+	float: 79
+Attempting to remove member 82 from buffer 1...
+	...Success!
+	int: 800
+	float: 80.079971
+	float: 80
+Attempting to remove member 83 from buffer 1...
+	...Success!
+	int: 810
+	float: 81.080971
+	float: 81
+Attempting to remove member 84 from buffer 1...
+	...Success!
+	int: 820
+	float: 82.081970
+	float: 82
+Attempting to remove member 85 from buffer 1...
+	...Success!
+	int: 830
+	float: 83.082970
+	float: 83
+Attempting to remove member 86 from buffer 1...
+	...Success!
+	int: 840
+	float: 84.083969
+	float: 84
+Attempting to remove member 87 from buffer 1...
+	...Success!
+	int: 850
+	float: 85.084969
+	float: 85
+Attempting to remove member 88 from buffer 1...
+	...Success!
+	int: 860
+	float: 86.085968
+	float: 86
+Attempting to remove member 89 from buffer 1...
+	...Success!
+	int: 870
+	float: 87.086967
+	float: 87
+Attempting to remove member 90 from buffer 1...
+	...Success!
+	int: 880
+	float: 88.087967
+	float: 88
+Attempting to remove member 91 from buffer 1...
+	...Success!
+	int: 890
+	float: 89.088966
+	float: 89
+Attempting to remove member 92 from buffer 1...
+	...Success!
+	int: 900
+	float: 90.089966
+	float: 90
+Attempting to remove member 93 from buffer 1...
+	...Success!
+	int: 910
+	float: 91.090965
+	float: 91
+Attempting to remove member 94 from buffer 1...
+	...Success!
+	int: 920
+	float: 92.091965
+	float: 92
+Attempting to remove member 95 from buffer 1...
+	...Success!
+	int: 930
+	float: 93.092964
+	float: 93
+Attempting to remove member 96 from buffer 1...
+	...Success!
+	int: 940
+	float: 94.093964
+	float: 94
+Attempting to remove member 97 from buffer 1...
+	...Success!
+	int: 950
+	float: 95.094963
+	float: 95
+Attempting to remove member 98 from buffer 1...
+	...Success!
+	int: 960
+	float: 96.095963
+	float: 96
+Attempting to remove member 99 from buffer 1...
+	...Success!
+	int: 970
+	float: 97.096962
+	float: 97
+Attempting to remove member 100 from buffer 1...
+	...Success!
+	int: 980
+	float: 98.097961
+	float: 98
+Attempting to remove member 101 from buffer 1...
+	...Success!
+	int: 990
+	float: 99.098961
+	float: 99
+Attempting to remove member 102 from buffer 1...
+	...Success!
+	int: 1000
+	float: 100.099960
+	float: 100
+Attempting to remove member 103 from buffer 1...
+	...Success!
+	int: 1010
+	float: 101.100960
+	float: 101
+Attempting to remove member 104 from buffer 1...
+	...Success!
+	int: 1020
+	float: 102.101959
+	float: 102
+Attempting to remove member 105 from buffer 1...
+	...Success!
+	int: 1030
+	float: 103.102959
+	float: 103
+Attempting to remove member 106 from buffer 1...
+	...Success!
+	int: 1040
+	float: 104.103958
+	float: 104
+Attempting to remove member 107 from buffer 1...
+	...Success!
+	int: 1050
+	float: 105.104958
+	float: 105
+Attempting to remove member 108 from buffer 1...
+	...Success!
+	int: 1060
+	float: 106.105957
+	float: 106
+Attempting to remove member 109 from buffer 1...
+	...Success!
+	int: 1070
+	float: 107.106956
+	float: 107
+Attempting to remove member 110 from buffer 1...
+	...Success!
+	int: 1080
+	float: 108.107956
+	float: 108
+Attempting to remove member 111 from buffer 1...
+	...Success!
+	int: 1090
+	float: 109.108955
+	float: 109
+Attempting to remove member 112 from buffer 1...
+	...Success!
+	int: 1100
+	float: 110.109955
+	float: 110
+Attempting to remove member 113 from buffer 1...
+	...Success!
+	int: 1110
+	float: 111.110954
+	float: 111
+Attempting to remove member 114 from buffer 1...
+	...Success!
+	int: 1120
+	float: 112.111954
+	float: 112
+Attempting to remove member 115 from buffer 1...
+	...Success!
+	int: 1130
+	float: 113.112953
+	float: 113
+Attempting to remove member 116 from buffer 1...
+	...Success!
+	int: 1140
+	float: 114.113953
+	float: 114
+Attempting to remove member 117 from buffer 1...
+	...Success!
+	int: 1150
+	float: 115.114952
+	float: 115
+Attempting to remove member 118 from buffer 1...
+	...Success!
+	int: 1160
+	float: 116.115952
+	float: 116
+Attempting to remove member 119 from buffer 1...
+	...Success!
+	int: 1170
+	float: 117.116951
+	float: 117
+Attempting to remove member 120 from buffer 1...
+	...Success!
+	int: 1180
+	float: 118.117950
+	float: 118
+Attempting to remove member 121 from buffer 1...
+	...Success!
+	int: 1190
+	float: 119.118950
+	float: 119
+Attempting to remove member 122 from buffer 1...
+	...Success!
+	int: 1200
+	float: 120.119949
+	float: 120
+Attempting to remove member 123 from buffer 1...
+	...Success!
+	int: 1210
+	float: 121.120949
+	float: 121
+Attempting to remove member 124 from buffer 1...
+	...Success!
+	int: 1220
+	float: 122.121948
+	float: 122
+Attempting to remove member 125 from buffer 1...
+	...Success!
+	int: 1230
+	float: 123.122948
+	float: 123
+Attempting to remove member 126 from buffer 1...
+	...Success!
+	int: 1240
+	float: 124.123947
+	float: 124
+Attempting to remove member 127 from buffer 1...
+	...Success!
+	int: 1250
+	float: 125.124947
+	float: 125
+Attempting to remove member 128 from buffer 1...
+	...Success!
+	int: 1260
+	float: 126.125946
+	float: 126
+Attempting to remove member 129 from buffer 1...
+	...Success!
+	int: 1270
+	float: 127.126945
+	float: 127
+Attempting to remove member 130 from buffer 1...
+	...Success!
+	int: 1280
+	float: 128.127945
+	float: 128
+Attempting to remove member 131 from buffer 1...
+	...Success!
+	int: 1290
+	float: 129.128952
+	float: 129
+Attempting to remove member 132 from buffer 1...
+	...Success!
+	int: 1300
+	float: 130.129959
+	float: 130
+Attempting to remove member 133 from buffer 1...
+	...Success!
+	int: 1310
+	float: 131.130966
+	float: 131
+Attempting to remove member 134 from buffer 1...
+	...Success!
+	int: 1320
+	float: 132.131973
+	float: 132
+Attempting to remove member 135 from buffer 1...
+	...Success!
+	int: 1330
+	float: 133.132980
+	float: 133
+Attempting to remove member 136 from buffer 1...
+	...Success!
+	int: 1340
+	float: 134.133987
+	float: 134
+Attempting to remove member 137 from buffer 1...
+	...Success!
+	int: 1350
+	float: 135.134995
+	float: 135
+Attempting to remove member 138 from buffer 1...
+	...Success!
+	int: 1360
+	float: 136.136002
+	float: 136
+Attempting to remove member 139 from buffer 1...
+	...Success!
+	int: 1370
+	float: 137.137009
+	float: 137
+Attempting to remove member 140 from buffer 1...
+	...Success!
+	int: 1380
+	float: 138.138016
+	float: 138
+Attempting to remove member 141 from buffer 1...
+	...Success!
+	int: 1390
+	float: 139.139023
+	float: 139
+Attempting to remove member 142 from buffer 1...
+	...Success!
+	int: 1400
+	float: 140.140030
+	float: 140
+Attempting to remove member 143 from buffer 1...
+	...Success!
+	int: 1410
+	float: 141.141037
+	float: 141
+Attempting to remove member 144 from buffer 1...
+	...Success!
+	int: 1420
+	float: 142.142044
+	float: 142
+Attempting to remove member 145 from buffer 1...
+	...Success!
+	int: 1430
+	float: 143.143051
+	float: 143
+Attempting to remove member 146 from buffer 1...
+	...Success!
+	int: 1440
+	float: 144.144058
+	float: 144
+Attempting to remove member 147 from buffer 1...
+	...Success!
+	int: 1450
+	float: 145.145065
+	float: 145
+Attempting to remove member 148 from buffer 1...
+	...Success!
+	int: 1460
+	float: 146.146072
+	float: 146
+Attempting to remove member 149 from buffer 1...
+	...Success!
+	int: 1470
+	float: 147.147079
+	float: 147
+Attempting to remove member 150 from buffer 1...
+	...Success!
+	int: 1480
+	float: 148.148087
+	float: 148
+Attempting to remove member 151 from buffer 1...
+	...Success!
+	int: 1490
+	float: 149.149094
+	float: 149
+Attempting to remove member 152 from buffer 1...
+	...Success!
+	int: 1500
+	float: 150.150101
+	float: 150
+Attempting to remove member 153 from buffer 1...
+	...Success!
+	int: 1510
+	float: 151.151108
+	float: 151
+Attempting to remove member 154 from buffer 1...
+	...Success!
+	int: 1520
+	float: 152.152115
+	float: 152
+Attempting to remove member 155 from buffer 1...
+	...Success!
+	int: 1530
+	float: 153.153122
+	float: 153
+Attempting to remove member 156 from buffer 1...
+	...Success!
+	int: 1540
+	float: 154.154129
+	float: 154
+Attempting to remove member 157 from buffer 1...
+	...Success!
+	int: 1550
+	float: 155.155136
+	float: 155
+Attempting to remove member 158 from buffer 1...
+	...Success!
+	int: 1560
+	float: 156.156143
+	float: 156
+Attempting to remove member 159 from buffer 1...
+	...Success!
+	int: 1570
+	float: 157.157150
+	float: 157
+Attempting to remove member 160 from buffer 1...
+	...Success!
+	int: 1580
+	float: 158.158157
+	float: 158
+Attempting to remove member 161 from buffer 1...
+	...Success!
+	int: 1590
+	float: 159.159164
+	float: 159
+Attempting to remove member 162 from buffer 1...
+	...Success!
+	int: 1600
+	float: 160.160172
+	float: 160
+Attempting to remove member 163 from buffer 1...
+	...Success!
+	int: 1610
+	float: 161.161179
+	float: 161
+Attempting to remove member 164 from buffer 1...
+	...Success!
+	int: 1620
+	float: 162.162186
+	float: 162
+Attempting to remove member 165 from buffer 1...
+	...Success!
+	int: 1630
+	float: 163.163193
+	float: 163
+Attempting to remove member 166 from buffer 1...
+	...Success!
+	int: 1640
+	float: 164.164200
+	float: 164
+Attempting to remove member 167 from buffer 1...
+	...Success!
+	int: 1650
+	float: 165.165207
+	float: 165
+Attempting to remove member 168 from buffer 1...
+	...Success!
+	int: 1660
+	float: 166.166214
+	float: 166
+Attempting to remove member 169 from buffer 1...
+	...Success!
+	int: 1670
+	float: 167.167221
+	float: 167
+Attempting to remove member 170 from buffer 1...
+	...Success!
+	int: 1680
+	float: 168.168228
+	float: 168
+Attempting to remove member 171 from buffer 1...
+	...Success!
+	int: 1690
+	float: 169.169235
+	float: 169
+Attempting to remove member 172 from buffer 1...
+	...Success!
+	int: 1700
+	float: 170.170242
+	float: 170
+Attempting to remove member 173 from buffer 1...
+	...Success!
+	int: 1710
+	float: 171.171249
+	float: 171
+Attempting to remove member 174 from buffer 1...
+	...Success!
+	int: 1720
+	float: 172.172256
+	float: 172
+Attempting to remove member 175 from buffer 1...
+	...Success!
+	int: 1730
+	float: 173.173264
+	float: 173
+Attempting to remove member 176 from buffer 1...
+	...Success!
+	int: 1740
+	float: 174.174271
+	float: 174
+Attempting to remove member 177 from buffer 1...
+	...Success!
+	int: 1750
+	float: 175.175278
+	float: 175
+Attempting to remove member 178 from buffer 1...
+	...Success!
+	int: 1760
+	float: 176.176285
+	float: 176
+Attempting to remove member 179 from buffer 1...
+	...Success!
+	int: 1770
+	float: 177.177292
+	float: 177
+Attempting to remove member 180 from buffer 1...
+	...Success!
+	int: 1780
+	float: 178.178299
+	float: 178
+Attempting to remove member 181 from buffer 1...
+	...Success!
+	int: 1790
+	float: 179.179306
+	float: 179
+Attempting to remove member 182 from buffer 1...
+	...Success!
+	int: 1800
+	float: 180.180313
+	float: 180
+Attempting to remove member 183 from buffer 1...
+	...Success!
+	int: 1810
+	float: 181.181320
+	float: 181
+Attempting to remove member 184 from buffer 1...
+	...Success!
+	int: 1820
+	float: 182.182327
+	float: 182
+Attempting to remove member 185 from buffer 1...
+	...Success!
+	int: 1830
+	float: 183.183334
+	float: 183
+Attempting to remove member 186 from buffer 1...
+	...Success!
+	int: 1840
+	float: 184.184341
+	float: 184
+Attempting to remove member 187 from buffer 1...
+	...Success!
+	int: 1850
+	float: 185.185349
+	float: 185
+Attempting to remove member 188 from buffer 1...
+	...Success!
+	int: 1860
+	float: 186.186356
+	float: 186
+Attempting to remove member 189 from buffer 1...
+	...Success!
+	int: 1870
+	float: 187.187363
+	float: 187
+Attempting to remove member 190 from buffer 1...
+	...Success!
+	int: 1880
+	float: 188.188370
+	float: 188
+Attempting to remove member 191 from buffer 1...
+	...Success!
+	int: 1890
+	float: 189.189377
+	float: 189
+Attempting to remove member 192 from buffer 1...
+	...Success!
+	int: 1900
+	float: 190.190384
+	float: 190
+Attempting to remove member 193 from buffer 1...
+	...Success!
+	int: 1910
+	float: 191.191391
+	float: 191
+Attempting to remove member 194 from buffer 1...
+	...Success!
+	int: 1920
+	float: 192.192398
+	float: 192
+Attempting to remove member 195 from buffer 1...
+	...Success!
+	int: 1930
+	float: 193.193405
+	float: 193
+Attempting to remove member 196 from buffer 1...
+	...Success!
+	int: 1940
+	float: 194.194412
+	float: 194
+Attempting to remove member 197 from buffer 1...
+	...Success!
+	int: 1950
+	float: 195.195419
+	float: 195
+Attempting to remove member 198 from buffer 1...
+	...Success!
+	int: 1960
+	float: 196.196426
+	float: 196
+Attempting to remove member 199 from buffer 1...
+	...Success!
+	int: 1970
+	float: 197.197433
+	float: 197
+Attempting to remove member 200 from buffer 1...
+	...Success!
+	int: 1980
+	float: 198.198441
+	float: 198
+Attempting to remove member 201 from buffer 1...
+	...Success!
+	int: 1990
+	float: 199.199448
+	float: 199
+Attempting to remove member 202 from buffer 1...
+	...Success!
+	int: 2000
+	float: 200.200455
+	float: 200
+Attempting to remove member 203 from buffer 1...
+	...Success!
+	int: 2010
+	float: 201.201462
+	float: 201
+Attempting to remove member 204 from buffer 1...
+	...Success!
+	int: 2020
+	float: 202.202469
+	float: 202
+Attempting to remove member 205 from buffer 1...
+	...Success!
+	int: 2030
+	float: 203.203476
+	float: 203
+Attempting to remove member 206 from buffer 1...
+	...Success!
+	int: 2040
+	float: 204.204483
+	float: 204
+Attempting to remove member 207 from buffer 1...
+	...Success!
+	int: 2050
+	float: 205.205490
+	float: 205
+Attempting to remove member 208 from buffer 1...
+	...Success!
+	int: 2060
+	float: 206.206497
+	float: 206
+Attempting to remove member 209 from buffer 1...
+	...Success!
+	int: 2070
+	float: 207.207504
+	float: 207
+Attempting to remove member 210 from buffer 1...
+	...Success!
+	int: 2080
+	float: 208.208511
+	float: 208
+Attempting to remove member 211 from buffer 1...
+	...Success!
+	int: 2090
+	float: 209.209518
+	float: 209
+Attempting to remove member 212 from buffer 1...
+	...Success!
+	int: 2100
+	float: 210.210526
+	float: 210
+Attempting to remove member 213 from buffer 1...
+	...Success!
+	int: 2110
+	float: 211.211533
+	float: 211
+Attempting to remove member 214 from buffer 1...
+	...Success!
+	int: 2120
+	float: 212.212540
+	float: 212
+Attempting to remove member 215 from buffer 1...
+	...Success!
+	int: 2130
+	float: 213.213547
+	float: 213
+Attempting to remove member 216 from buffer 1...
+	...Success!
+	int: 2140
+	float: 214.214554
+	float: 214
+Attempting to remove member 217 from buffer 1...
+	...Success!
+	int: 2150
+	float: 215.215561
+	float: 215
+Attempting to remove member 218 from buffer 1...
+	...Success!
+	int: 2160
+	float: 216.216568
+	float: 216
+Attempting to remove member 219 from buffer 1...
+	...Success!
+	int: 2170
+	float: 217.217575
+	float: 217
+Attempting to remove member 220 from buffer 1...
+	...Success!
+	int: 2180
+	float: 218.218582
+	float: 218
+Attempting to remove member 221 from buffer 1...
+	...Success!
+	int: 2190
+	float: 219.219589
+	float: 219
+Attempting to remove member 222 from buffer 1...
+	...Success!
+	int: 2200
+	float: 220.220596
+	float: 220
+Attempting to remove member 223 from buffer 1...
+	...Success!
+	int: 2210
+	float: 221.221603
+	float: 221
+Attempting to remove member 224 from buffer 1...
+	...Success!
+	int: 2220
+	float: 222.222610
+	float: 222
+Attempting to remove member 225 from buffer 1...
+	...Success!
+	int: 2230
+	float: 223.223618
+	float: 223
+Attempting to remove member 226 from buffer 1...
+	...Success!
+	int: 2240
+	float: 224.224625
+	float: 224
+Attempting to remove member 227 from buffer 1...
+	...Success!
+	int: 2250
+	float: 225.225632
+	float: 225
+Attempting to remove member 228 from buffer 1...
+	...Success!
+	int: 2260
+	float: 226.226639
+	float: 226
+Attempting to remove member 229 from buffer 1...
+	...Success!
+	int: 2270
+	float: 227.227646
+	float: 227
+Attempting to remove member 230 from buffer 1...
+	...Success!
+	int: 2280
+	float: 228.228653
+	float: 228
+Attempting to remove member 231 from buffer 1...
+	...Success!
+	int: 2290
+	float: 229.229660
+	float: 229
+Attempting to remove member 232 from buffer 1...
+	...Success!
+	int: 2300
+	float: 230.230667
+	float: 230
+Attempting to remove member 233 from buffer 1...
+	...Success!
+	int: 2310
+	float: 231.231674
+	float: 231
+Attempting to remove member 234 from buffer 1...
+	...Success!
+	int: 2320
+	float: 232.232681
+	float: 232
+Attempting to remove member 235 from buffer 1...
+	...Success!
+	int: 2330
+	float: 233.233688
+	float: 233
+Attempting to remove member 236 from buffer 1...
+	...Success!
+	int: 2340
+	float: 234.234695
+	float: 234
+Attempting to remove member 237 from buffer 1...
+	...Success!
+	int: 2350
+	float: 235.235703
+	float: 235
+Attempting to remove member 238 from buffer 1...
+	...Success!
+	int: 2360
+	float: 236.236710
+	float: 236
+Attempting to remove member 239 from buffer 1...
+	...Success!
+	int: 2370
+	float: 237.237717
+	float: 237
+Attempting to remove member 240 from buffer 1...
+	...Success!
+	int: 2380
+	float: 238.238724
+	float: 238
+Attempting to remove member 241 from buffer 1...
+	...Success!
+	int: 2390
+	float: 239.239731
+	float: 239
+Attempting to remove member 242 from buffer 1...
+	...Success!
+	int: 2400
+	float: 240.240738
+	float: 240
+Attempting to remove member 243 from buffer 1...
+	...Success!
+	int: 2410
+	float: 241.241745
+	float: 241
+Attempting to remove member 244 from buffer 1...
+	...Success!
+	int: 2420
+	float: 242.242752
+	float: 242
+Attempting to remove member 245 from buffer 1...
+	...Success!
+	int: 2430
+	float: 243.243759
+	float: 243
+Attempting to remove member 246 from buffer 1...
+	...Success!
+	int: 2440
+	float: 244.244766
+	float: 244
+Attempting to remove member 247 from buffer 1...
+	...Success!
+	int: 2450
+	float: 245.245773
+	float: 245
+Attempting to remove member 248 from buffer 1...
+	...Success!
+	int: 2460
+	float: 246.246780
+	float: 246
+Attempting to remove member 249 from buffer 1...
+	...Success!
+	int: 2470
+	float: 247.247787
+	float: 247
+Attempting to remove member 250 from buffer 1...
+	...Success!
+	int: 2480
+	float: 248.248795
+	float: 248
+Attempting to remove member 251 from buffer 1...
+	...Success!
+	int: 2490
+	float: 249.249802
+	float: 249
+Attempting to remove member 252 from buffer 1...
+	...Success!
+	int: 2500
+	float: 250.250809
+	float: 250
+Attempting to remove member 253 from buffer 1...
+	...Success!
+	int: 2510
+	float: 251.251816
+	float: 251
+Attempting to remove member 254 from buffer 1...
+	...Success!
+	int: 2520
+	float: 252.252823
+	float: 252
+Attempting to remove member 255 from buffer 1...
+	...Success!
+	int: 2530
+	float: 253.253830
+	float: 253
+Buffer Empty
+Attempting to remove member 256 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 257 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 258 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 259 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 260 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 261 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 262 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 263 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 264 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 265 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 266 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 267 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 268 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 269 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 270 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 271 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 272 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 273 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 274 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 275 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 276 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 277 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 278 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 279 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 280 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 281 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 282 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 283 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 284 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 285 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 286 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 287 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 288 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 289 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 290 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 291 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 292 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 293 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 294 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 295 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 296 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 297 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 298 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Attempting to remove member 299 from buffer 1...
+	...FAILED
+	int: 99
+	float: 9.990000
+	float: 9
+Buffer Empty
+Freeing buffer 1
+Freeing buffer 2
