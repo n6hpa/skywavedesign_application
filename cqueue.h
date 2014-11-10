@@ -2,13 +2,12 @@
 #define EMPTY 0xFFFF
 #define FULL 0xFFFE
 
-
 extern int SetVal( int v );
-extern int GetVal(void);
+extern int GetVal( void );
 
 
 typedef unsigned int CqueueElement;
-typedef CqueueElement pCqueueElement[CQUEUESIZE];
+typedef CqueueElement pCqueueElement[ CQUEUESIZE ];
 
 typedef struct {
   CqueueElement * array;

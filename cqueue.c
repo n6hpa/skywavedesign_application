@@ -1,13 +1,20 @@
 #include "cqueue.h"
 
+// cqueue.c
+//
+// A circular queue
+//
+
+
+
 //===============================================
 //==============[ cli ]==========================
 //===============================================
 
 void cli( void )
 {
-  // if an interrupt routine is able to modify
-  // the queue, we must turn off interrupts here
+  // If an interrupt (or thread) is able to modify
+  // the queue, we must turn off interrupts here.
 }
 
 //===============================================
@@ -16,7 +23,7 @@ void cli( void )
 
 void sti( void )
 {
-  // if an interrupt routine is able to modify
+  // If an interrupt (or thread) is able to modify
   // the queue, we restore interrupts here
 }
 
@@ -108,7 +115,8 @@ int CqueueSize( void )
 //==============[ CqueueElementSize ]============
 //===============================================
 
-// get the number of bytes each member needs.
+// Get the number of bytes each member needs.
+// IOW, a 16 bit integer needs 2 bytes,
 
 int CqueueElementSize( void )
 {
@@ -121,6 +129,7 @@ int CqueueElementSize( void )
 //===============================================
 
 // Setup a queue to a known state.
+// Done once for each queue when the system starts.
 
 void CqueueInit( Cqueue* q,  CqueueElement * e  )
 {

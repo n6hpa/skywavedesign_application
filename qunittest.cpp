@@ -34,8 +34,10 @@ private slots:
 
     void initTestCase(void)
     {
+	    // Calculate how many bytes we need.
         elementsz=CqueueElementSize();
         sz=CqueueSize();
+		// Get memory for two queues to test. Set them up.
         queue1array=(CqueueElement *) malloc( sz*elementsz );
         CqueueInit( &queue1, queue1array );
         queue2array=(CqueueElement *) malloc( sz*elementsz );
@@ -58,11 +60,12 @@ private slots:
         // executed after each test function
     }
 
-    // Start super simple with one member in and out.
+    // Start super simple, with just one member in and out.
     void testAddFirst()
     {
         int currentsz;
         CqueueAdd(&queue1,10);
+		// Check the count. Should be just the 1 member.
         currentsz=CqueueCount(&queue1);
         QCOMPARE( currentsz, 1 );
     }
@@ -73,7 +76,9 @@ private slots:
         int element;
         element=CqueueRemove(&queue1);
         currentsz=CqueueCount(&queue1);
+		// We wrote '10' so it better be '10'
         QVERIFY2(element==10, "Bad Data!");
+		// and the count should be back to 0
         QCOMPARE( currentsz, 0 );
     }
 
@@ -143,8 +148,11 @@ private slots:
             currentsz=CqueueCount(&queue1);
             QCOMPARE( currentsz, i+1 );
         }
+		// This should overflow.
         status=CqueueAdd( &queue1, 77 );
+		// Did it overflow?
         QVERIFY2( status==FULL, "Expected FULL!" );
+		// Did the count remain at the max?
         currentsz=CqueueCount(&queue1);
         QVERIFY2( currentsz==sz, "Unexpected count!" );
     }
@@ -164,7 +172,8 @@ private slots:
         }
     }
 
-    // Run two queues at once to see if there is corruption.
+    // Run two queues at once to see if there is 
+	// corruption between them.
     void testDual()
     {
         int currentsz;
@@ -263,6 +272,13 @@ int TestItStatus(void)
 private:
 
 // Per the spec, collect the data as html.
+// It was first saved as plain text, so
+// parse through and look for significant
+// reports.
+//
+// NOTE: There may be a better way to do
+// this in Qt but after much seeking I didn't
+// find it.
 
 void AddHTML(void)
 {
@@ -270,27 +286,27 @@ void AddHTML(void)
     teststatus=0;
 
     pFile=fopen("log.txt","r");
-    if(pFile==NULL)
+    if( pFile==NULL )
     {
         // sanity check
         return;
     }
-    fclose(pFile);
+    fclose( pFile );
 
-    pFile=fopen("log.html","w");
-    if(pFile==NULL)
+    pFile=fopen( "log.html", "w" );
+    if( pFile==NULL )
     {
         return;
     }
 
-    fputs("<!DOCTYPE html>\n",pFile);
-    fputs("<html>\n",pFile);
-    fputs("<body>\n",pFile);
+    fputs( "<!DOCTYPE html>\n", pFile );
+    fputs( "<html>\n", pFile );
+    fputs( "<body>\n", pFile );
 
-    std::ifstream file("log.txt");
+    std::ifstream file( "log.txt" );
     std::string str;
 
-    while ( std::getline(file, str))
+    while ( std::getline(file, str) )
     {
         std::string str2;
 
@@ -306,40 +322,40 @@ void AddHTML(void)
 
         // keep this simple since it's a test
 
-        if(str2.compare("****")==0)
+        if( str2.compare("****")==0 )
         {
             // a heading
-            fputs("<h2>",pFile);
-            fputs(str.c_str(),pFile);
-            fputs("</h2>",pFile);
+            fputs( "<h2>", pFile );
+            fputs( str.c_str(), pFile );
+            fputs( "</h2>", pFile );
         }
-        else if(str2.compare("PASS")==0)
+        else if( str2.compare("PASS")==0 )
         {
             // a PASS condition is green
-            fputs("<font color=\"green\">",pFile);
-            fputs("<p>",pFile);
-            fputs(str.c_str(),pFile);
-            fputs("</p>\n",pFile);
-            fputs("</font>",pFile);
+            fputs( "<font color=\"green\">", pFile );
+            fputs( "<p>", pFile );
+            fputs( str.c_str(), pFile );
+            fputs( "</p>\n", pFile );
+            fputs( "</font>", pFile );
         }
-        else if(str2.compare("FAIL")==0)
+        else if( str2.compare("FAIL")==0 )
         {
             // a FAIL condition is red
-            fputs("<font color=\"red\">",pFile);
-            fputs("<p>",pFile);
-            fputs(str.c_str(),pFile);
-            fputs("</p>\n",pFile);
-            fputs("</font>",pFile);
+            fputs( "<font color=\"red\">", pFile );
+            fputs( "<p>", pFile );
+            fputs( str.c_str(), pFile );
+            fputs( "</p>\n", pFile );
+            fputs( "</font>", pFile );
             teststatus=1;
         }
-        else if( (str2.compare("Tota")==0) && teststatus==1 )
+        else if( (str2.compare("Tota")==0) && (teststatus==1) )
         {
             // make totals red if there was a failure
-            fputs("<font color=\"red\">",pFile);
-            fputs("<p>",pFile);
-            fputs(str.c_str(),pFile);
-            fputs("</p>\n",pFile);
-            fputs("</font>",pFile);
+            fputs( "<font color=\"red\">",pFile );
+            fputs( "<p>", pFile );
+            fputs( str.c_str(), pFile );
+            fputs( "</p>\n", pFile );
+            fputs( "</font>", pFile );
             teststatus=1;
         }
         else
@@ -350,11 +366,11 @@ void AddHTML(void)
             fputs("</p>\n",pFile);
         }
     }
-    fputs("</body>\n",pFile);
-    fputs("</html>\n",pFile);
+    fputs( "</body>\n", pFile );
+    fputs( "</html>\n", pFile );
     file.close();
-    fclose(pFile);
-    remove("log.txt");
+    fclose( pFile );
+    remove( "log.txt" );
 }
 
 public slots:
@@ -364,7 +380,7 @@ public slots:
         QStringList cmdline;
         // We'll log to a file:
         cmdline<<" "<<"-o"<<"log.txt";
-        button->setText("Processing");
+        button->setText( "Processing" );
         button->show();
         // Make sure we see the message.
         QCoreApplication::processEvents();
@@ -374,8 +390,8 @@ public slots:
         // Wrap the text output with html. (log.html)
         AddHTML();
         // Tell user the verdict.
-        if( teststatus==0 ) button->setText("PASS: Test Again?");
-        else button->setText("FAIL: Test Again?");
+        if( teststatus==0 ) button->setText( "PASS: Test Again?" );
+        else button->setText( "FAIL: Test Again?" );
         button->show();
     }
 
@@ -393,12 +409,12 @@ int main(int argc, char** argv)
 {
    QApplication a(argc,argv);
 
-   QPushButton *button = new QPushButton("Test");
+   QPushButton *button = new QPushButton( "Test" );
    TestIt b(button);
    // Just using 1 simple button.
-   button->setGeometry(200,200,180,60);
+   button->setGeometry( 200, 200, 180, 60 );
    // When the button is pressed, do the test in TestIt
-   QObject::connect(button, SIGNAL(clicked()), &b, SLOT(domybutton()   ));
+   QObject::connect( button, SIGNAL(clicked()), &b, SLOT( domybutton() ));
    button->show();
    a.exec();
    return b.TestItStatus();
