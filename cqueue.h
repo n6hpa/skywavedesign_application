@@ -1,3 +1,6 @@
+#ifndef CQUEUE_H
+#define CQUEUE_H
+
 #define CQUEUESIZE 256
 #define EMPTY 0xFFFF
 #define FULL 0xFFFE
@@ -24,3 +27,4 @@ extern int CqueueAdd( Cqueue* q, CqueueElement e );
 extern CqueueElement CqueueRemove( Cqueue * q );
 
 
+#endif // CQUEUE_H

@@ -10,6 +10,10 @@ CONFIG += console
 CONFIG -= app_bundle
 TEMPLATE = app
 SOURCES += qunittest.cpp \
-    cqueue.c
+    cqueue.c \
+    cqtest.cpp \
+    testit.cpp
 HEADERS += qunittest.h \
-    cqueue.h
+    cqueue.h \
+    cqtest.h \
+    testit.h

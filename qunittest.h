@@ -2,4 +2,4 @@
 #define QUNITTEST_H
 
 
-#endif // QUNITTEST1_H
+#endif // QUNITTEST_H
