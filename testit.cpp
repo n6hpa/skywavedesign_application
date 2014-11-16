@@ -9,64 +9,50 @@ using namespace std;
 //====================== constructor =========================
 //============================================================
 
-TestIt::TestIt(QPushButton * b)
+TestIt::TestIt()
 {
-   button=b; // We're using a button to start things.
    teststatus=2; // Return an error if the user doesn't test.
 }
 
 //============================================================
-//====================== TestItStatus ========================
+//====================== testitStatus ========================
 //============================================================
 
-int TestIt::TestItStatus(void)
+int TestIt::testitStatus(void)
 {
     // the status of the last test run
     return teststatus;
 }
 
+
 //============================================================
-//====================== AddHTML =============================
+//====================== docqtest ============================
 //============================================================
 
-// Per the spec, collect the data as html.
-// It was first saved as plain text, so
-// parse through and look for significant
-// reports.
-//
-// NOTE: There may be a better way to do
-// this in Qt but after much seeking I didn't
-// find it.
-
-void TestIt::AddHTML(void)
+void TestIt::doCQtest()
 {
-    FILE * pFile;
-    teststatus=0;
+    QStringList cmdline;
+    teststatus=0; // no errors yet
+    // We'll log to a temporary file:
+    cmdline<<" "<<"-o"<<"templog.txt";
+    // Do the actual tests.
+    CQTest tc;
+    QTest::qExec( &tc,  cmdline );
+    // QTest::qExec( &tc, 0 );
 
-    pFile=fopen("log.txt","r");
-    if( pFile==NULL )
-    {
-        // sanity check
-        teststatus=3;
-        return;
-    }
-    fclose( pFile );
-
-    pFile=fopen( "log.html", "w" );
-    if( pFile==NULL )
-    {
-        teststatus=3;
-        return;
-    }
-
-    fputs( "<!DOCTYPE html>\n", pFile );
-    fputs( "<html>\n", pFile );
-    fputs( "<body>\n", pFile );
-
-    std::ifstream file( "log.txt" );
+    // convert the text to html
+    std::ifstream file("templog.txt");
     std::string str;
 
-    while ( std::getline(file, str) )
+    cout<< "<!DOCTYPE html>\n";
+    cout<< "<html>\n";
+    cout<< "<body>\n";
+    cout<< "<style>\n";
+    cout<< "p {line-height:90%; text-indent:20px}" << endl;
+    cout<< "</style>" << endl;
+
+    // read each line and super-simple parse it for context
+    while( getline(file,str))
     {
         std::string str2;
 
@@ -85,76 +71,53 @@ void TestIt::AddHTML(void)
         if( str2.compare("****")==0 )
         {
             // a heading
-            fputs( "<h2>", pFile );
-            fputs( str.c_str(), pFile );
-            fputs( "</h2>", pFile );
+            cout << "<h2>" <<endl;
+            cout << str.c_str() << endl;
+            cout << "</h2>" << endl;
         }
         else if( str2.compare("PASS")==0 )
         {
             // a PASS condition is green
-            fputs( "<font color=\"green\">", pFile );
-            fputs( "<p>", pFile );
-            fputs( str.c_str(), pFile );
-            fputs( "</p>\n", pFile );
-            fputs( "</font>", pFile );
+            cout << "<font color=\"green\">" << endl;
+            cout << "<p>" << endl;
+            cout << str.c_str() << endl;
+            cout << "</p>" << endl;
+            cout << "</font>" << endl;
         }
         else if( str2.compare("FAIL")==0 )
         {
             // a FAIL condition is red
-            fputs( "<font color=\"red\">", pFile );
-            fputs( "<p>", pFile );
-            fputs( str.c_str(), pFile );
-            fputs( "</p>\n", pFile );
-            fputs( "</font>", pFile );
+            cout << "<font color=\"red\">" << endl;
+            cout << "<p>" << endl;
+            cout << str.c_str() << endl;
+            cout << "</p>" << endl;
+            cout << "</font>" << endl;
             teststatus=1;
         }
         else if( (str2.compare("Tota")==0) && (teststatus==1) )
         {
             // make totals red if there was a failure
-            fputs( "<font color=\"red\">",pFile );
-            fputs( "<p>", pFile );
-            fputs( str.c_str(), pFile );
-            fputs( "</p>\n", pFile );
-            fputs( "</font>", pFile );
+            cout << "<font color=\"red\">" << endl;
+            cout << "<p>" << endl;
+            cout << str.c_str() << endl;
+            cout << "</p>" << endl;
+            cout << "</font>" << endl;
             teststatus=1;
         }
         else
         {
             // otherwise, normal text
-            fputs("<p>",pFile);
-            fputs(str.c_str(),pFile);
-            fputs("</p>\n",pFile);
+            cout << "<p>" << endl;
+            cout << str.c_str() << endl;
+            cout << "</p>" << endl;
         }
     }
-    fputs( "</body>\n", pFile );
-    fputs( "</html>\n", pFile );
-    file.close();
-    fclose( pFile );
-    remove( "log.txt" );
-}
 
-//============================================================
-//====================== domybutton ==========================
-//============================================================
-
-void TestIt::domybutton()
-{
-    QStringList cmdline;
-    // We'll log to a file:
-    cmdline<<" "<<"-o"<<"log.txt";
-    button->setText( "Processing" );
-    button->show();
-    // Make sure we see the message.
-    QCoreApplication::processEvents();
-    // Do the actual tests.
-    CQTest tc;
-    QTest::qExec( &tc,  cmdline );
-    // Wrap the text output with html. (log.html)
-    AddHTML();
-    // Tell user the verdict.
-    if( teststatus==0 ) button->setText( "PASS: Test Again?" );
-    else button->setText( "FAIL: Test Again?" );
-    button->show();
+    cout<< "</body>\n";
+    cout<< "</html>\n";
+    // The text has been streamed.
+    // Soon we will read it, send it to
+    // a text edit box and also to disk.
 }
 
 

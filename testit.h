@@ -17,20 +17,16 @@ class TestIt : public QObject
 
 public:
 
-TestIt(QPushButton * b);
-
-int TestItStatus(void);
+TestIt(void);
+int testitStatus(void);
 
 private:
-
-void AddHTML(void);
 
 public slots:
 
-    void domybutton();
+    void doCQtest();
 
 private:
-    QPushButton * button;
     int teststatus;
 };
 

@@ -1,5 +1,10 @@
 #include <QApplication>
-#include <QPushButton>
+//#include <QPushButton>
+#include "mainwindow.h"
+#include <iostream>
+#include <fstream>
+using namespace std;
+#include <sstream>
 
 #include "qunittest.h"
 #include "cqtest.h"
@@ -12,16 +17,19 @@
 int main(int argc, char** argv)
 {
    QApplication a(argc,argv);
+   MainWindow w;
 
-   QPushButton *button = new QPushButton( "Test" );
-   TestIt b(button);
-   // Just using 1 simple button.
-   button->setGeometry( 200, 200, 180, 60 );
-   // When the button is pressed, do the test in TestIt
-   QObject::connect( button, SIGNAL(clicked()), &b, SLOT( domybutton() ));
-   button->show();
+   streambuf * savestreambuf = cout.rdbuf();
+   ostringstream strCout;
+   cout.rdbuf( strCout.rdbuf() );
+   // initial text box message
+   cout <<"Untested"<<endl;
+   // setup the text redirection
+   w.textRefresh(&strCout);
+   w.show();
    a.exec();
-   return b.TestItStatus();
+   cout.rdbuf( savestreambuf );
+   return w.testStatus();
 }
 
 #include "qunittest.moc"

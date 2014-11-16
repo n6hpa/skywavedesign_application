@@ -12,8 +12,12 @@ TEMPLATE = app
 SOURCES += qunittest.cpp \
     cqueue.c \
     cqtest.cpp \
-    testit.cpp
+    testit.cpp \
+    mainwindow.cpp
 HEADERS += qunittest.h \
     cqueue.h \
     cqtest.h \
-    testit.h
+    testit.h \
+    mainwindow.h
+
+FORMS += mainwindow.ui
