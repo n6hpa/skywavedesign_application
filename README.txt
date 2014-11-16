@@ -2,6 +2,9 @@ Sky Wave Design, LLC
 
 Since I haven't heard anything yet I took the opportunity this morning to restructure the code. Ideally I'd further restructure TestIt.cpp. The code to transform txt to html should be split off into a separate file and made general purpose (a passed in file name etc.) But I hesitate to add too much complexty to a test. If the test becomes more complex than the thing under test it sort of defeats the purpose of the test.
 
+20141116 edit:
+I reworked the gui. Now there's a text edit box which contains the html. This is also written to log.html. The filename is hardcoded but should be set by the command line or other user input.
+
 Don Jindra
 323-463-4843
 donjindra@hotmail.com
